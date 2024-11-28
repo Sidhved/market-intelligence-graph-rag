@@ -199,6 +199,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [sidhved.warik@gmail.com]
+Sidhved Warik - [sidhved.warik@gmail.com]
 
 Project Link: [https://github.com/Sidhved/market-intelligence-graph-rag](https://github.com/Sidhved/market-intelligence-graph-rag)
